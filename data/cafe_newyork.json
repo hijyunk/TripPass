@@ -1,0 +1,1125 @@
+{
+  "search_metadata": {
+    "id": "66752d3fa1b4233032b8c65c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a2ff8ce2c02bd75b/66752d3fa1b4233032b8c65c.json",
+    "created_at": "2024-06-21 07:35:27 UTC",
+    "processed_at": "2024-06-21 07:35:27 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/cafe+in+NewYork?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/a2ff8ce2c02bd75b/66752d3fa1b4233032b8c65c.html",
+    "total_time_taken": 4.38
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "cafe in NewYork",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Some results for exact spelling but showing fixed spelling",
+    "query_displayed": "cafe in "
+  },
+  "local_results": [
+    {
+      "position": 2,
+      "title": "In Common NYC - A Breakfast & Brunch Restaurant",
+      "place_id": "ChIJcaZiKLVZwokRmPzP29O2DNU",
+      "data_id": "0x89c259b52862a671:0xd50cb6d3dbcffc98",
+      "data_cid": "15351846250841373848",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259b52862a671%3A0xd50cb6d3dbcffc98&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259b52862a671%3A0xd50cb6d3dbcffc98&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.753834999999995,
+        "longitude": -73.99624299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcaZiKLVZwokRmPzP29O2DNU",
+      "provider_id": "/g/11j2w8817l",
+      "rating": 4.7,
+      "reviews": 1058,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Breakfast restaurant",
+        "Brunch restaurant",
+        "Espresso bar"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "espresso_bar"
+      ],
+      "address": "441 9th Ave Suite 101, New York, NY 10001",
+      "open_state": "Closed ⋅ Opens 7:30 AM",
+      "hours": "Closed ⋅ Opens 7:30 AM",
+      "operating_hours": {
+        "friday": "7:30 AM–3 PM",
+        "saturday": "8:30 AM–3 PM",
+        "sunday": "8:30 AM–3 PM",
+        "monday": "7:30 AM–3 PM",
+        "tuesday": "7:30 AM–3 PM",
+        "wednesday": "7:30 AM–3 PM",
+        "thursday": "7:30 AM–3 PM"
+      },
+      "phone": "(646) 370-3099",
+      "website": "https://www.incommonnyc.com/",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11j2w8817l&g2lbs=AOHF13k9d2zQ2XFC9Me47dq8tYYk1PF6Dirzmj4Z7RkgfDO_Y9nTtGUtSDl1Nf4UzTqkGIX6GAQhmiq78CQh31RyjojAX6tPgBlmrEdu3lQDQdt-YWAh8go%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOU68JhHDmzitaVel8fDmikfxchLWWWj0TuFCDj=w163-h92-k-no"
+    },
+    {
+      "position": 3,
+      "title": "Cafeteria",
+      "place_id": "ChIJ329uV7xZwokRfM6dcDcOtKY",
+      "data_id": "0x89c259bc576e6fdf:0xa6b40e37709dce7c",
+      "data_cid": "12012241737379335804",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259bc576e6fdf%3A0xa6b40e37709dce7c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259bc576e6fdf%3A0xa6b40e37709dce7c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7405304,
+        "longitude": -73.9979937
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ329uV7xZwokRfM6dcDcOtKY",
+      "provider_id": "/g/1tfv1gr2",
+      "rating": 4.2,
+      "reviews": 3454,
+      "price": "$$",
+      "type": "American restaurant",
+      "types": [
+        "American restaurant"
+      ],
+      "type_id": "american_restaurant",
+      "type_ids": [
+        "american_restaurant"
+      ],
+      "address": "119 7th Ave, New York, NY 10010",
+      "open_state": "Closed ⋅ Opens 9 AM",
+      "hours": "Closed ⋅ Opens 9 AM",
+      "operating_hours": {
+        "friday": "9 AM–1 AM",
+        "saturday": "9 AM–1 AM",
+        "sunday": "9 AM–12 AM",
+        "monday": "9 AM–12 AM",
+        "tuesday": "9 AM–12 AM",
+        "wednesday": "9 AM–12 AM",
+        "thursday": "9 AM–12 AM"
+      },
+      "phone": "(212) 414-1717",
+      "website": "http://www.cafeteriagroup.com/",
+      "description": "Stylish comfort food & baked goods. A swanky take on a diner attracting people-watchers & post-clubbers late nights.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/Iz429yiK3cA?source=pa&opi=79508299&hl=en-US&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dcafe%2Bin%2BNewYork%26tbm%3Dmap",
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/1tfv1gr2&g2lbs=AOHF13m9jftwUaGSc-Yf7UsquhTFI7kjXnVZFXsaOhnDZ6BmvRTPsBa8QvbzPU1ClVOmt7k_Av8hQRCTeXHyVANpr9RQL2Hi0ZGT8qQXicAbLhbpytoso9M%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQejanQ5Ri8JZQS8xlJQLYa1ZM209UHd34g8k=w122-h92-k-no"
+    },
+    {
+      "position": 4,
+      "title": "Café Lyria",
+      "place_id": "ChIJcVcDbvVZwokRH9wq92JCQBo",
+      "data_id": "0x89c259f56e035771:0x1a404262f72adc1f",
+      "data_cid": "1891584836316617759",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259f56e035771%3A0x1a404262f72adc1f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259f56e035771%3A0x1a404262f72adc1f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.725846,
+        "longitude": -73.995426
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcVcDbvVZwokRH9wq92JCQBo",
+      "provider_id": "/g/11ptqg3xgh",
+      "rating": 4.6,
+      "reviews": 320,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Coffee shop"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "coffee_shop"
+      ],
+      "address": "166 Crosby St, New York, NY 10012",
+      "open_state": "Closed ⋅ Opens 8 AM",
+      "hours": "Closed ⋅ Opens 8 AM",
+      "operating_hours": {
+        "friday": "8 AM–5 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "8 AM–5 PM",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM",
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM"
+      },
+      "website": "https://cafe-lyria.club/",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM79OvsG6tdUxiZ1yk7_1E09eclpp-OBHy59s0J=w80-h106-k-no"
+    },
+    {
+      "position": 5,
+      "title": "Culture Espresso",
+      "place_id": "ChIJdco4TKpZwokRdtg39W89yog",
+      "data_id": "0x89c259aa4c38ca75:0x88ca3d6ff537d876",
+      "data_cid": "9856758285518493814",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259aa4c38ca75%3A0x88ca3d6ff537d876&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259aa4c38ca75%3A0x88ca3d6ff537d876&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7520746,
+        "longitude": -73.9857387
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdco4TKpZwokRdtg39W89yog",
+      "provider_id": "/g/1z449xl4g",
+      "rating": 4.6,
+      "reviews": 1567,
+      "price": "$$",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Bakery",
+        "Cookie shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "bakery",
+        "cookie_shop"
+      ],
+      "address": "72 W 38th St, New York, NY 10018",
+      "open_state": "Closed ⋅ Opens 6:30 AM",
+      "hours": "Closed ⋅ Opens 6:30 AM",
+      "operating_hours": {
+        "friday": "6:30 AM–9 PM",
+        "saturday": "6:30 AM–9 PM",
+        "sunday": "7 AM–7 PM",
+        "monday": "7 AM–7 PM",
+        "tuesday": "6:30 AM–9 PM",
+        "wednesday": "6:30 AM–9 PM",
+        "thursday": "6:30 AM–9 PM"
+      },
+      "phone": "(212) 302-0200",
+      "website": "http://www.cultureespresso.com/",
+      "description": "Arty coffeehouse with snacks & more. Tiny, art-adorned coffeehouse pairing its brews with baked goods, sandwiches & a local vibe.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/1z449xl4g&g2lbs=AOHF13keCxYXxEbQwSIBnnOkHX527KJnR-CpM79pfUOpOgOnGbc1vOF9CteqqSq3yWU9hb_wmBLZAPYwCpg67KPRSQpGii2-BpqCLnBTk9YfujEaBn099ts%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&orderType=2&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPKUaPuycGryvBwR01lFtM1KzgB4tUXMRWec4oq=w122-h92-k-no"
+    },
+    {
+      "position": 6,
+      "title": "Little Collins",
+      "place_id": "ChIJuU3yhK9ZwokRVls7Mp3XqLY",
+      "data_id": "0x89c259af84f24db9:0xb6a8d79d323b5b56",
+      "data_cid": "13162006981142862678",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259af84f24db9%3A0xb6a8d79d323b5b56&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259af84f24db9%3A0xb6a8d79d323b5b56&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7523639,
+        "longitude": -73.97351139999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuU3yhK9ZwokRVls7Mp3XqLY",
+      "provider_id": "/g/11b61qq0km",
+      "rating": 4.6,
+      "reviews": 2000,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Breakfast restaurant",
+        "Brunch restaurant",
+        "Coffee shop",
+        "Espresso bar",
+        "Lunch restaurant",
+        "Restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "coffee_shop",
+        "espresso_bar",
+        "lunch_restaurant",
+        "restaurant"
+      ],
+      "address": "708 3rd Ave, New York, NY 10017",
+      "open_state": "Closed ⋅ Opens 7 AM",
+      "hours": "Closed ⋅ Opens 7 AM",
+      "operating_hours": {
+        "friday": "7 AM–8 PM",
+        "saturday": "7:30 AM–6 PM",
+        "sunday": "7:30 AM–6 PM",
+        "monday": "7 AM–6 PM",
+        "tuesday": "7 AM–8 PM",
+        "wednesday": "7 AM–8 PM",
+        "thursday": "7 AM–8 PM"
+      },
+      "phone": "(212) 308-1969",
+      "website": "http://www.littlecollinsnyc.com/",
+      "description": "Cozy cafe for breakfast and sandwiches. Stylish, warm coffee shop dishing up all day breakfast, pastries, sandwiches and salads, plus drinks.",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJEy0CoCWtiWGgYq8MfBlZXIls43YMYvaRDB42=w122-h92-k-no"
+    },
+    {
+      "position": 7,
+      "title": "The Monkey Cup",
+      "place_id": "ChIJEVVgiCz3wokRjVxrVqLaxcw",
+      "data_id": "0x89c2f72c88605511:0xccc5daa2566b5c8d",
+      "data_cid": "14755440144918731917",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2f72c88605511%3A0xccc5daa2566b5c8d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2f72c88605511%3A0xccc5daa2566b5c8d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.8044663,
+        "longitude": -73.951122
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEVVgiCz3wokRjVxrVqLaxcw",
+      "provider_id": "/g/11f9x2t6m6",
+      "rating": 4.7,
+      "reviews": 565,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe",
+        "Cafeteria",
+        "Tea house",
+        "Venezuelan restaurant"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "cafe",
+        "cafeteria",
+        "tea_house",
+        "venezuelan_restaurant"
+      ],
+      "address": "1965 Adam Clayton Powell Jr Blvd, New York, NY 10026",
+      "open_state": "Closed ⋅ Opens 7 AM",
+      "hours": "Closed ⋅ Opens 7 AM",
+      "operating_hours": {
+        "friday": "7 AM–6 PM",
+        "saturday": "7 AM–6 PM",
+        "sunday": "7 AM–6 PM",
+        "monday": "7 AM–4 PM",
+        "tuesday": "7 AM–4 PM",
+        "wednesday": "7 AM–4 PM",
+        "thursday": "7 AM–6 PM"
+      },
+      "website": "http://www.themonkeycup.com/",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": false
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11f9x2t6m6&g2lbs=AOHF13nPZ46umJkOTDxTZl68Lhr-RHQSm8FivRQtcr1QY8q0flWd6jNSukO65DYEQnhTI-AQLhrDrgbSJ_p_CCl1-37FsQx3zYxI-FsVfNtBbkqawV4-1y4%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPx7rezcF2bdA8NrXy2o8ojSwkTeLnrzF7X_h-X=w80-h106-k-no"
+    },
+    {
+      "position": 8,
+      "title": "Coffee Project New York | East Village",
+      "place_id": "ChIJ_dckWptZwokR_LkU9WxPNZ4",
+      "data_id": "0x89c2599b5a24d7fd:0x9e354f6cf514b9fc",
+      "data_cid": "11400105361145117180",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2599b5a24d7fd%3A0x9e354f6cf514b9fc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2599b5a24d7fd%3A0x9e354f6cf514b9fc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7270884,
+        "longitude": -73.98938199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_dckWptZwokR_LkU9WxPNZ4",
+      "provider_id": "/g/11c3svpqld",
+      "rating": 4.7,
+      "reviews": 738,
+      "price": "$$",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe"
+      ],
+      "address": "239 E 5th St, New York, NY 10003",
+      "open_state": "Closed ⋅ Opens 7:30 AM",
+      "hours": "Closed ⋅ Opens 7:30 AM",
+      "operating_hours": {
+        "friday": "7:30 AM–5 PM",
+        "saturday": "8 AM–5:30 PM",
+        "sunday": "8 AM–5:30 PM",
+        "monday": "7:30 AM–5 PM",
+        "tuesday": "7:30 AM–5 PM",
+        "wednesday": "7:30 AM–5 PM",
+        "thursday": "7:30 AM–5 PM"
+      },
+      "phone": "(212) 228-7888",
+      "website": "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ev",
+      "description": "Hip nook for innovative coffee drinks. Cozy, brick-lined joint for inventive drinks such as deconstructed lattes and nitro cold-brew coffee.",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11c3svpqld&g2lbs=AOHF13l6_haH3B4I7-UxRUNT-8BXV14M8W2oqLyuErAu28wlQg4IlPOwaVPlGiuqj_lh6kt6rrkLAJZ_RgjlmD8azNZn1NbFB7ASjHCX_giBZ7JdCXOGj3U%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNCvrY4xS8Nn4lBZV1Bd0f7WwoJOLM8enR7U6M8=w122-h92-k-no"
+    },
+    {
+      "position": 9,
+      "title": "Europan Cafe",
+      "place_id": "ChIJmxkvnYJYwokRU_aL3fQiTIA",
+      "data_id": "0x89c258829d2f199b:0x804c22f4dd8bf653",
+      "data_cid": "9244802570169087571",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c258829d2f199b%3A0x804c22f4dd8bf653&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c258829d2f199b%3A0x804c22f4dd8bf653&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7576269,
+        "longitude": -73.9891847
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmxkvnYJYwokRU_aL3fQiTIA",
+      "provider_id": "/g/1tf8t__7",
+      "rating": 3.9,
+      "reviews": 1034,
+      "price": "$$",
+      "unclaimed_listing": true,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Bakery"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "bakery"
+      ],
+      "address": "672 8th Ave, New York, NY 10036",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours"
+      },
+      "phone": "(212) 730-4442",
+      "website": "https://www.europancafenyc.com/delivery/",
+      "description": "Pit stop for treats, sandwiches & coffee. Simple counter serve offering a range of pastries, breakfast/lunch sandwiches, espresso & smoothies.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/1tf8t__7&g2lbs=AOHF13neu_-2e5krMN-O1PZ3A2120MxYAS3Qifh8rmtmzC84SnbwzINEqtP38LPS7wXJliWg7daVyTu2rxQzAoqaZ3amhBSYYaqKX7RyVPFszze7abkD6jg%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPv1UuSdbkKp8hVAtMiY3a9Dk4-Iqhe2M7sKpi-=w122-h92-k-no"
+    },
+    {
+      "position": 10,
+      "title": "Slate Cafe NoMad",
+      "place_id": "ChIJMznhLt9ZwokREJt8CB0FTdA",
+      "data_id": "0x89c259df2ee13933:0xd04d051d087c9b10",
+      "data_cid": "15009658755350305552",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259df2ee13933%3A0xd04d051d087c9b10&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259df2ee13933%3A0xd04d051d087c9b10&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7453125,
+        "longitude": -73.9846013
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMznhLt9ZwokREJt8CB0FTdA",
+      "provider_id": "/g/11ckv6wkq4",
+      "rating": 4.6,
+      "reviews": 1376,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "American restaurant",
+        "Catering food and drink supplier"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "american_restaurant",
+        "catering_food_and_drink_supplies"
+      ],
+      "address": "121 Madison Ave #5, New York, NY 10016",
+      "open_state": "Closed ⋅ Opens 7:30 AM",
+      "hours": "Closed ⋅ Opens 7:30 AM",
+      "operating_hours": {
+        "friday": "7:30 AM–5 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "8 AM–5 PM",
+        "monday": "7:30 AM–5 PM",
+        "tuesday": "7:30 AM–5 PM",
+        "wednesday": "7:30 AM–5 PM",
+        "thursday": "7:30 AM–5 PM"
+      },
+      "phone": "(212) 683-7800",
+      "website": "http://www.slatecafe.com/",
+      "description": "Casual spot for brews & light bites. Modern, petite counter-order spot for coffee, breakfast bites & sandwiches, plus beer & wine.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11ckv6wkq4&g2lbs=AOHF13kSeWbEPH0k-8VX5NfT9A4F7K4qTaMKUTztAtwgeCxd6R9on4M5JdvIE_L1q-8vrmj3jY7MrvMF47T4WAMQCyjP_LONsHgOxIKgz6VaLqEIUHbz7iI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMzdAnEnW1uUW6cRPZAVuZ6yLEOH8HHCwqfhkYh=w137-h92-k-no"
+    },
+    {
+      "position": 11,
+      "title": "Banter NYC",
+      "place_id": "ChIJE2lK_41ZwokRd26avZGNTsc",
+      "data_id": "0x89c2598dff4a6913:0xc74e8d91bd9a6e77",
+      "data_cid": "14361571918821879415",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2598dff4a6913%3A0xc74e8d91bd9a6e77&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2598dff4a6913%3A0xc74e8d91bd9a6e77&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.727927799999996,
+        "longitude": -74.0009847
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE2lK_41ZwokRd26avZGNTsc",
+      "provider_id": "/g/11c6lczhm5",
+      "rating": 4.5,
+      "reviews": 960,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Australian restaurant",
+        "Breakfast restaurant",
+        "Brunch restaurant",
+        "Catering food and drink supplier",
+        "Cocktail bar",
+        "Coffee shop",
+        "Lunch restaurant",
+        "Restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "australian_restaurant",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "catering_food_and_drink_supplies",
+        "cocktail_bar",
+        "coffee_shop",
+        "lunch_restaurant",
+        "restaurant"
+      ],
+      "address": "169 Sullivan St, New York, NY 10012",
+      "open_state": "Closed ⋅ Opens 8 AM",
+      "hours": "Closed ⋅ Opens 8 AM",
+      "operating_hours": {
+        "friday": "8 AM–3 PM",
+        "saturday": "8 AM–4 PM",
+        "sunday": "8 AM–4 PM",
+        "monday": "8 AM–3 PM",
+        "tuesday": "8 AM–3 PM",
+        "wednesday": "8 AM–3 PM",
+        "thursday": "8 AM–3 PM"
+      },
+      "website": "http://www.banternyc.com/",
+      "description": "Intimate locale with cafe fare and a patio. Cozy cafe with a patio featuring elevated, health-conscious fare, plus espresso and select cocktails.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11c6lczhm5&g2lbs=AOHF13mUwHg3Ppd7TGU3Eh4bMCW3nrTIh9gdqtPOH0G1yj9rHYyt_NHn4N5NTY6rJeFelj4wIE2Aw0rDRru7o_GQIPiudSMqoO3vvTnh896Z5kyOwnOU8vI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "join_waitlist": "https://www.google.com/maps/reserve/v/waitlist?c=P7SzjaMfGRA&source=pa&opi=79508299&hl=en-US&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dcafe%2Bin%2BNewYork%26tbm%3Dmap",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9Vtxxs5TJXcRZYNup9jkIo2-M6WzyieNaqBzm=w80-h142-k-no"
+    },
+    {
+      "position": 12,
+      "title": "Charlotte Cafe",
+      "place_id": "ChIJhWNXb1tZwokRyLpRsan63bo",
+      "data_id": "0x89c2595b6f576385:0xbaddfaa9b151bac8",
+      "data_cid": "13465194067638991560",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2595b6f576385%3A0xbaddfaa9b151bac8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2595b6f576385%3A0xbaddfaa9b151bac8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.744364,
+        "longitude": -73.97650089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhWNXb1tZwokRyLpRsan63bo",
+      "provider_id": "/g/11sh015_5x",
+      "rating": 4.9,
+      "reviews": 525,
+      "price": "$",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "cafe"
+      ],
+      "address": "605 2nd Ave, New York, NY 10016",
+      "open_state": "Closed ⋅ Opens 6:30 AM",
+      "hours": "Closed ⋅ Opens 6:30 AM",
+      "operating_hours": {
+        "friday": "6:30 AM–7:30 PM",
+        "saturday": "7 AM–7:30 PM",
+        "sunday": "7 AM–7:30 PM",
+        "monday": "6:30 AM–7:30 PM",
+        "tuesday": "6:30 AM–7:30 PM",
+        "wednesday": "6:30 AM–7:30 PM",
+        "thursday": "6:30 AM–7:30 PM"
+      },
+      "phone": "(347) 318-7107",
+      "website": "http://www.charlottecafe.com/",
+      "description": "Chill hangout for light bites & coffee. Laid-back neighborhood haunt with specialty coffee drinks, sandwiches & baked goods.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11sh015_5x&g2lbs=AOHF13kRI-WQBfL05gepKl4gsGKbN0UXjT6ZG-4zy3vTikAEVTdKl3uUOwmK8KqAbDqg27XQO-WkYefY41uAyUsielbFcFKIHj0DPQZc70WnVjDatrhFAWg%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuTAmrCRj5LpV0U28we1Sp3m1us-ZHoyj5HlZg=w122-h92-k-no"
+    },
+    {
+      "position": 13,
+      "title": "Park Cafe",
+      "place_id": "ChIJme12g9P3wokRizvkjgImi7U",
+      "data_id": "0x89c2f7d38376ed99:0xb58b26028ee43b8b",
+      "data_cid": "13081591335056849803",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2f7d38376ed99%3A0xb58b26028ee43b8b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2f7d38376ed99%3A0xb58b26028ee43b8b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7995421,
+        "longitude": -73.96117
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJme12g9P3wokRizvkjgImi7U",
+      "provider_id": "/g/11kr_vwxcj",
+      "rating": 4.9,
+      "reviews": 214,
+      "price": "$",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "American restaurant",
+        "Mediterranean restaurant"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "american_restaurant",
+        "mediterranean_restaurant"
+      ],
+      "address": "153 Manhattan Ave, New York, NY 10025",
+      "open_state": "Closed ⋅ Opens 9 AM",
+      "hours": "Closed ⋅ Opens 9 AM",
+      "operating_hours": {
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9 PM",
+        "tuesday": "9 AM–9 PM",
+        "wednesday": "9 AM–9 PM",
+        "thursday": "9 AM–9 PM"
+      },
+      "phone": "(516) 749-0697",
+      "website": "https://www.parkcafeny.com/",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11kr_vwxcj&g2lbs=AOHF13k3PF0x9tFwr8DQsEdvKqxer7WaZDKHNj11ec0HQjMlvJSveIN0qXHNRko7scRkHJuXO7dMPSGnAhQ7O8Y8LLpHfCjKSeW17vX4pkofuwNevyoO-tg%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNsRd07EvNVvmexc9rft99HX97i-YgnZt3b7CRF=w80-h105-k-no"
+    },
+    {
+      "position": 14,
+      "title": "Union Square Cafe",
+      "place_id": "ChIJxTHke6JZwokRCLWVd99eDBw",
+      "data_id": "0x89c259a27be431c5:0x1c0c5edf7795b508",
+      "data_cid": "2021094646659527944",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259a27be431c5%3A0x1c0c5edf7795b508&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259a27be431c5%3A0x1c0c5edf7795b508&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7377702,
+        "longitude": -73.9878767
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxTHke6JZwokRCLWVd99eDBw",
+      "provider_id": "/m/03hmjkv",
+      "rating": 4.6,
+      "reviews": 1839,
+      "price": "$$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "American restaurant",
+        "Brunch restaurant",
+        "Restaurant",
+        "Cocktail bar",
+        "Event venue",
+        "Fine dining restaurant",
+        "Lunch restaurant",
+        "Takeout Restaurant",
+        "New American restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "american_restaurant",
+        "brunch_restaurant",
+        "restaurant",
+        "cocktail_bar",
+        "event_venue",
+        "fine_dining_restaurant",
+        "lunch_restaurant",
+        "meal_takeaway",
+        "new_us_american_restaurant"
+      ],
+      "address": "101 E 19th St, New York, NY 10003",
+      "open_state": "Closed ⋅ Opens 11:30 AM",
+      "hours": "Closed ⋅ Opens 11:30 AM",
+      "operating_hours": {
+        "friday": "11:30 AM–3 PM",
+        "saturday": "11:30 AM–3 PM",
+        "sunday": "11:30 AM–3 PM",
+        "monday": "11:30 AM–3 PM",
+        "tuesday": "11:30 AM–3 PM",
+        "wednesday": "11:30 AM–3 PM",
+        "thursday": "11:30 AM–3 PM"
+      },
+      "phone": "(212) 243-4020",
+      "website": "http://www.unionsquarecafe.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
+      "description": "Market-driven New American fine dining. Danny Meyer's first restaurant serves seasonal New American fare in a casually refined setting.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/1JIpoYa1MDU?source=pa&opi=79508299&hl=en-US&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dcafe%2Bin%2BNewYork%26tbm%3Dmap",
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/m/03hmjkv&g2lbs=AOHF13lA13bOaNFtgNkoHLT1oC84f5pBcYNREUHFJOEj3nB6kWB1lz9hTRPXm4D8QMLA_GB0wQiudEy6ptGW4AzZegDWVT9YP_SmjEUvMGO9Cnm5XuBJ_gw%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM9YEmP88xqf0Q6QxxUNaKgReEu4z1B7GyIYk9-=w137-h92-k-no"
+    },
+    {
+      "position": 15,
+      "title": "Frisson Espresso",
+      "place_id": "ChIJJd-4_1NYwokRtEqmmFU9Z5o",
+      "data_id": "0x89c25853ffb8df25:0x9a673d5598a64ab4",
+      "data_cid": "11125928842284649140",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25853ffb8df25%3A0x9a673d5598a64ab4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c25853ffb8df25%3A0x9a673d5598a64ab4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.760836999999995,
+        "longitude": -73.98899949999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJd-4_1NYwokRtEqmmFU9Z5o",
+      "provider_id": "/g/11b6xbml1x",
+      "rating": 4.7,
+      "reviews": 1024,
+      "price": "$$",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe",
+        "Coffee store",
+        "Espresso bar",
+        "Pastry shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "cafe",
+        "coffee_store",
+        "espresso_bar",
+        "pastry_shop"
+      ],
+      "address": "10036 326 W 47th St, New York, NY 10036",
+      "open_state": "Closed ⋅ Opens 7:30 AM",
+      "hours": "Closed ⋅ Opens 7:30 AM",
+      "operating_hours": {
+        "friday": "7:30 AM–8 PM",
+        "saturday": "7:30 AM–8 PM",
+        "sunday": "7:30 AM–8 PM",
+        "monday": "7:30 AM–7 PM",
+        "tuesday": "7:30 AM–7 PM",
+        "wednesday": "7:30 AM–8 PM",
+        "thursday": "7:30 AM–8 PM"
+      },
+      "phone": "(646) 850-3928",
+      "description": "Hip spot for gourmet coffee and pastries. Serves artisan coffee and espresso drinks with pastries and light meals in a cozy, upbeat space.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11b6xbml1x&g2lbs=AOHF13lPJK3vJEptwbBjXGiwK_k_E1Sd5yB-zrz3KJHSBGgCMYZmvs53BZHf8PcqukiTQ5lmtqYJbij_OLq_SSHdPeHpToOyb9fMBf2XnylD6QhrVcvn1Fc%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZlNnrhLOyQYsXjou4AdQ3-B76rKVkr9ibmdTm=w122-h92-k-no"
+    },
+    {
+      "position": 16,
+      "title": "maman",
+      "place_id": "ChIJL8_mB4lZwokR9RPJzSCMrmw",
+      "data_id": "0x89c2598907e6cf2f:0x6cae8c20cdc913f5",
+      "data_cid": "7831350874563220469",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2598907e6cf2f%3A0x6cae8c20cdc913f5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2598907e6cf2f%3A0x6cae8c20cdc913f5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7202877,
+        "longitude": -73.9983933
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL8_mB4lZwokR9RPJzSCMrmw",
+      "provider_id": "/g/11b6bnj5v1",
+      "rating": 4.3,
+      "reviews": 1450,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Breakfast restaurant",
+        "Brunch restaurant",
+        "Coffee shop",
+        "Delivery service",
+        "Dessert shop",
+        "European restaurant",
+        "Family restaurant",
+        "French restaurant",
+        "Restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "coffee_shop",
+        "delivery_service",
+        "dessert_shop",
+        "european_restaurant",
+        "family_restaurant",
+        "french_restaurant",
+        "restaurant"
+      ],
+      "address": "239 Centre St, New York, NY 10013",
+      "open_state": "Closed ⋅ Opens 7:30 AM",
+      "hours": "Closed ⋅ Opens 7:30 AM",
+      "operating_hours": {
+        "friday": "7:30 AM–6 PM",
+        "saturday": "8 AM–6 PM",
+        "sunday": "8 AM–6 PM",
+        "monday": "7:30 AM–6 PM",
+        "tuesday": "7:30 AM–6 PM",
+        "wednesday": "7:30 AM–6 PM",
+        "thursday": "7:30 AM–6 PM"
+      },
+      "phone": "(212) 226-0700",
+      "website": "https://mamannyc.com/locations/soho",
+      "description": "Cozy cafe for French & American treats. Rustic storefront showcasing classic French & American baked goods, plus soups, sandwiches & salads.",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN56aliX_DlmUe0FIbuyfOpWjK_AcPTFpqYMqNm=w121-h92-k-no"
+    },
+    {
+      "position": 17,
+      "title": "Caffe Reggio",
+      "place_id": "ChIJr4J2gZFZwokRA2y5p4UfH8I",
+      "data_id": "0x89c25991817682af:0xc21f1f85a7b96c03",
+      "data_cid": "13987933626541108227",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25991817682af%3A0xc21f1f85a7b96c03&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c25991817682af%3A0xc21f1f85a7b96c03&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7303079,
+        "longitude": -74.0003706
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr4J2gZFZwokRA2y5p4UfH8I",
+      "provider_id": "/m/0c41py6",
+      "rating": 4.3,
+      "reviews": 1673,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe"
+      ],
+      "address": "119 MacDougal St, New York, NY 10012",
+      "open_state": "Closed ⋅ Opens 9 AM",
+      "hours": "Closed ⋅ Opens 9 AM",
+      "operating_hours": {
+        "friday": "9 AM–4 AM",
+        "saturday": "9 AM–4 AM",
+        "sunday": "9 AM–3 AM",
+        "monday": "9 AM–3 AM",
+        "tuesday": "9 AM–3 AM",
+        "wednesday": "9 AM–3 AM",
+        "thursday": "9 AM–3 AM"
+      },
+      "phone": "(212) 475-9557",
+      "website": "https://www.caffereggio.com/",
+      "description": "Legendary spot for cappuccino & dessert. Italian cafe on the Greenwich Village scene since 1927.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/m/0c41py6&g2lbs=AOHF13kCEUInrCW6AIups5k5ZaC8AiVuj0hvKGC_S53NDFtSuYSKnkqChyuH6fRwOQzvjlAMC2YY-509GUGn2cTiQ_uU0_-jq1PIdfGWk2ZdKDUJcSAx4-E%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOxTjxX0p5VtZIzpr8QGNYBHlKyKU2cvgC-tYdk=w137-h92-k-no"
+    },
+    {
+      "position": 18,
+      "title": "Charlotte Cafe",
+      "place_id": "ChIJMX5YFCj2wokRdsRDPpJMflY",
+      "data_id": "0x89c2f62814587e31:0x567e4c923e43c476",
+      "data_cid": "6232503125320909942",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2f62814587e31%3A0x567e4c923e43c476&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2f62814587e31%3A0x567e4c923e43c476&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7942293,
+        "longitude": -73.972504
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMX5YFCj2wokRdsRDPpJMflY",
+      "provider_id": "/g/11b6dwlpp8",
+      "rating": 4.8,
+      "reviews": 919,
+      "price": "$$",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe",
+        "Dessert shop",
+        "Espresso bar",
+        "Pastry shop",
+        "Salad shop",
+        "Sandwich shop",
+        "Tea store"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "cafe",
+        "dessert_shop",
+        "espresso_bar",
+        "pastry_shop",
+        "salad_shop",
+        "sandwich_shop",
+        "tea_store"
+      ],
+      "address": "2541 Broadway, New York, NY 10025",
+      "open_state": "Closed ⋅ Opens 6:30 AM",
+      "hours": "Closed ⋅ Opens 6:30 AM",
+      "operating_hours": {
+        "friday": "6:30 AM–7:30 PM",
+        "saturday": "7 AM–7:30 PM",
+        "sunday": "7 AM–7:30 PM",
+        "monday": "6:30 AM–7:30 PM",
+        "tuesday": "6:30 AM–7:30 PM",
+        "wednesday": "6:30 AM–7:30 PM",
+        "thursday": "6:30 AM–7:30 PM"
+      },
+      "phone": "(347) 235-2807",
+      "website": "http://www.charlottecafe.com/",
+      "description": "Upmarket haunt for espresso & sweets. Ultramodern European-style cafe featuring premium Italian coffee & espresso drinks & pastries.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPUPX9lo1MQHND4h9O_K2ARKNUuV3B2TXpXo7RH=w80-h106-k-no"
+    },
+    {
+      "position": 19,
+      "title": "Cafe Select",
+      "place_id": "ChIJ95NLJ4lZwokRJ_NbOfYEz50",
+      "data_id": "0x89c25989274b93f7:0x9dcf04f6395bf327",
+      "data_cid": "11371313039704584999",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25989274b93f7%3A0x9dcf04f6395bf327&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c25989274b93f7%3A0x9dcf04f6395bf327&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.721784899999996,
+        "longitude": -73.99780249999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ95NLJ4lZwokRJ_NbOfYEz50",
+      "provider_id": "/g/1td1wc6h",
+      "rating": 4.2,
+      "reviews": 936,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Bar",
+        "Bistro",
+        "Restaurant",
+        "Coffee shop",
+        "European restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "bar",
+        "bistro",
+        "restaurant",
+        "coffee_shop",
+        "european_restaurant"
+      ],
+      "address": "212 Lafayette St, New York, NY 10012",
+      "open_state": "Closed ⋅ Opens 12 PM",
+      "hours": "Closed ⋅ Opens 12 PM",
+      "operating_hours": {
+        "friday": "12 PM–2 AM",
+        "saturday": "11 AM–2 AM",
+        "sunday": "11 AM–1 AM",
+        "monday": "12 PM–1 AM",
+        "tuesday": "12 PM–1 AM",
+        "wednesday": "12 PM–2 AM",
+        "thursday": "12 PM–2 AM"
+      },
+      "phone": "(212) 925-9322",
+      "description": "Casual Swiss restaurant. Casual Swiss spot with European rail-station-restaurant vibe & a hidden late-night space in back.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNa3byfudL9OlG5p-ISxuRvfKsJKI2lRMh4wFpk=w122-h92-k-no"
+    },
+    {
+      "position": 20,
+      "title": "Café Grumpy - Fashion District",
+      "place_id": "ChIJmzE1Y6tZwokRQLY6pr6tTDk",
+      "data_id": "0x89c259ab6335319b:0x394cadbea63ab640",
+      "data_cid": "4128865992736159296",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259ab6335319b%3A0x394cadbea63ab640&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259ab6335319b%3A0x394cadbea63ab640&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.754188899999995,
+        "longitude": -73.9888567
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmzE1Y6tZwokRQLY6pr6tTDk",
+      "provider_id": "/g/1jmcm19ws",
+      "rating": 4.3,
+      "reviews": 651,
+      "price": "$$",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe",
+        "Espresso bar"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "cafe",
+        "espresso_bar"
+      ],
+      "address": "200 W 39th St, New York, NY 10018",
+      "open_state": "Closed ⋅ Opens 7 AM",
+      "hours": "Closed ⋅ Opens 7 AM",
+      "operating_hours": {
+        "friday": "7 AM–5 PM",
+        "saturday": "9 AM–4 PM",
+        "sunday": "9 AM–4 PM",
+        "monday": "7 AM–5 PM",
+        "tuesday": "7 AM–5 PM",
+        "wednesday": "7 AM–5 PM",
+        "thursday": "7 AM–5 PM"
+      },
+      "phone": "(646) 449-8747",
+      "website": "http://cafegrumpy.com/locations/fashion-district/",
+      "description": "Hip spot for house-roasted coffee. Hip local coffeehouse chain serving house-roasted specialty brews in a relaxed setting.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/1jmcm19ws&g2lbs=AOHF13l2RA_zm_pgy8Jyy57-nQ4gkHAuos9Tjvv0EJYgS4-do0mNV3QK0OOEX-8_Dry4AyY2tpSJab80YX-qfZmxr8xWmobQSwNkMbDmcoA-39L1XgwxOik%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&orderType=2&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-rhsUezvDm4fD506AgNrVNvikFqbtqhwnVn7j=w162-h92-k-no"
+    },
+    {
+      "position": 21,
+      "title": "NewsBar Café",
+      "place_id": "ChIJ_____49MwokRvQ8K9_f-8q8",
+      "data_id": "0x89c24c8fffffffff:0xaff2fef7f70a0fbd",
+      "data_cid": "12678476241956376509",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c24c8fffffffff%3A0xaff2fef7f70a0fbd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c24c8fffffffff%3A0xaff2fef7f70a0fbd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7342039,
+        "longitude": -73.9923258
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_____49MwokRvQ8K9_f-8q8",
+      "provider_id": "/g/1thfgbvx",
+      "rating": 4.4,
+      "reviews": 525,
+      "price": "$$",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Brunch restaurant",
+        "Breakfast restaurant",
+        "Caterer",
+        "Coffee shop",
+        "Lunch restaurant",
+        "Restaurant",
+        "Soup shop"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "brunch_restaurant",
+        "breakfast_restaurant",
+        "catering_service",
+        "coffee_shop",
+        "lunch_restaurant",
+        "restaurant",
+        "soup_shop"
+      ],
+      "address": "107 University Pl, New York, NY 10003",
+      "open_state": "Closed ⋅ Opens 6:30 AM",
+      "hours": "Closed ⋅ Opens 6:30 AM",
+      "operating_hours": {
+        "friday": "6:30 AM–6 PM",
+        "saturday": "6:30 AM–6 PM",
+        "sunday": "7:30 AM–5 PM",
+        "monday": "6:30 AM–6 PM",
+        "tuesday": "6:30 AM–6 PM",
+        "wednesday": "6:30 AM–6 PM",
+        "thursday": "6:30 AM–6 PM"
+      },
+      "phone": "(212) 353-1246",
+      "website": "https://www.newsbarny.com/",
+      "description": "Cafe with coffee, sandwiches & magazines. This counter-serve coffee shop offers espresso drinks, baked goods, sandwiches & magazines.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/1thfgbvx&g2lbs=AOHF13lav67MTOyuUY8bKrP17oZwdZ74kOWs6fH4--v2HgTy2K2Kpvk-ngpehCKyOyKjk0CfF4o3YaV7Cj53jLR0mQ8eGtl6MI1odk7uMIxKcVyc4KExWco%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=QS11ZrqtGOK4kPIPuJ-lwAQ&ei=QS11ZrqtGOK4kPIPuJ-lwAQ&fo_s=OA,SOE&opi=79508299&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVWBHgrAw4XhbC2vOj_aIHYFJSERn2KQ1jVuIh=w122-h92-k-no"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=cafe+in+NewYork&start=20&type=search"
+  }
+}
