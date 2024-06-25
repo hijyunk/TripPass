@@ -92,8 +92,23 @@ def generate_response_from_results(results):
 
     return response.choices[0].message['content'], df
 
+def generate_paginated_response(df, page):
+    start_idx = page * 5
+    end_idx = start_idx + 5
+    paginated_data = df.iloc[start_idx:end_idx]
+
+    if paginated_data.empty:
+        return "더 이상 추천할 장소가 없습니다."
+
+    response = ""
+    for _, row in paginated_data.iterrows():
+        response += f"Name: {row['Name']}\nAddress: {row['Address']}\nRating: {row['Rating']}\n\n"
+
+    translated_response = translator.translate_text(response, target_lang="KO").text
+    return translated_response
+
 ## 챗봇 대화하기 
-def chatbot_interaction(user_query):
+def chatbot_interaction(user_query, page):
     # Perform the search
     keywords = extract_keywords(user_query)
     
@@ -105,11 +120,9 @@ def chatbot_interaction(user_query):
         return f"Error occurred: {error}", pd.DataFrame()
 
     # Generate response from results
-    response, df = generate_response_from_results(results)
-    translated_response = translator.translate_text(response, target_lang="KO").text
-
-    return translated_response, df
-
+    _, df = generate_response_from_results(results)
+    response = generate_paginated_response(df, page)
+    return response, df
 
 
 # Streamlit UI
@@ -126,6 +139,9 @@ if 'past' not in st.session_state:
 if 'map_data' not in st.session_state:
     st.session_state['map_data'] = pd.DataFrame()
 
+if 'page' not in st.session_state:
+    st.session_state['page'] = 0
+
 # Create two columns with a ratio to take up more space
 col1, col2 = st.columns([1.5, 1.5])
 
@@ -137,17 +153,28 @@ with col1:
         submitted = st.form_submit_button('Send')
 
     if submitted and user_input:
-        response, df = chatbot_interaction(user_input)
+        response, df = chatbot_interaction(user_input, st.session_state.page)
         st.session_state.past.append(user_input)
         st.session_state.generated.append(response)
         st.session_state.map_data = df
+        st.session_state.page = 0  # Reset page number for new query
 
-    # Display conversation
+    # Display 'Show more' button if there are more places to show
+    if not st.session_state['map_data'].empty:
+        start_idx = st.session_state['page'] * 5
+        end_idx = start_idx + 5
+        if end_idx < len(st.session_state['map_data']):
+            if st.button("다른 추천 보기"):
+                st.session_state.page += 1
+                new_response = generate_paginated_response(st.session_state['map_data'], st.session_state['page'])
+                st.session_state.generated.append(new_response)
+
+    # Display conversation in reverse order
     if st.session_state['generated']:
-        for i in range(len(st.session_state['generated'])):
+        for i in range(len(st.session_state['generated']) - 1, -1, -1):
+            message(st.session_state['generated'][i], key=f"bot_{i}")
             if i < len(st.session_state['past']):
                 message(st.session_state['past'][i], is_user=True, key=f"user_{i}")
-            message(st.session_state['generated'][i], key=f"bot_{i}")
 
 # Right column for map
 with col2:
@@ -157,22 +184,27 @@ with col2:
         map_data = st.session_state['map_data'].dropna(subset=['Latitude', 'Longitude'])
 
         if not map_data.empty:
-            avg_lat = map_data['Latitude'].mean()
-            avg_lng = map_data['Longitude'].mean()
+            # Paginate map data
+            start_idx = st.session_state['page'] * 5
+            end_idx = start_idx + 5
+            paginated_data = map_data.iloc[start_idx:end_idx]
+
+            avg_lat = paginated_data['Latitude'].mean()
+            avg_lng = paginated_data['Longitude'].mean()
 
             layer = pdk.Layer(
                 'ScatterplotLayer',
-                data=map_data,
+                data=paginated_data,
                 get_position='[Longitude, Latitude]',
                 get_color='[200, 30, 0, 160]',
-                get_radius=75,
+                get_radius=100,
                 pickable=True
             )
 
             view_state = pdk.ViewState(
                 latitude=avg_lat,
                 longitude=avg_lng,
-                zoom=11
+                zoom=12
             )
 
             r = pdk.Deck(
