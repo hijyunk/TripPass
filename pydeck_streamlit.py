@@ -8,10 +8,10 @@ import deepl
 from streamlit_chat import message
 import pydeck as pdk
 
-SERPAPI_API_KEY = os.environ.get('SERPAPI_API_KEY')
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-DEEPL_AUTH_KEY = os.environ["DEEPL_AUTH_KEY"]
+SERPAPI_API_KEY = os.environ['SERPAPI_API_KEY']
+OPENAI_API_KEY = os.environ['OPENAI_API_KEY']
 
+DEEPL_AUTH_KEY = os.environ["DEEPL_AUTH_KEY"]
 translator = deepl.Translator(DEEPL_AUTH_KEY)
 
 ## user_input에서 keywords 추출하기 

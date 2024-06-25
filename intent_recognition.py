@@ -9,14 +9,14 @@ openai.api_key = OPENAI_API_KEY
 
 def recognize_intent(user_input):
     messages = [
-        {"role": "system", "content": "You are an assistant that classifies user intents into categories: search, add_to_schedule, show_schedule."},
+        {"role": "system", "content": "You are an assistant that classifies user intents into one of these categories: 'search', 'add_to_schedule', 'show_schedule', 'else'. The input might contain typographical errors in Korean. Please correct them if necessary and output only one of these categories as the intent."},
         {"role": "user", "content": f"What is the intent of this input? '{user_input}'"}
     ]
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
-        max_tokens=50,
-        temperature=0.3
+        max_tokens=100,
+        temperature=0
     )
     intent = response.choices[0].message['content'].strip().lower()
     return intent

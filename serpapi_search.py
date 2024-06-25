@@ -1,12 +1,15 @@
 from serpapi import GoogleSearch
+import os
 
-def search_places(location, place_type, api_key):
+SERPAPI_API_KEY = os.environ['SERPAPI_API_KEY']
+
+def search_places(location, place_type):
     query = f"{place_type} near {location}"
     params = {
         "engine": "google_maps",
         "q": query,
         "type": "search",
-        "api_key": api_key
+        "api_key": SERPAPI_API_KEY
     }
 
     search = GoogleSearch(params)
