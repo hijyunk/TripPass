@@ -104,14 +104,13 @@ def chatbot_interaction(user_input, page):
         elif user_input.strip().lower() == "완료":
             schedule_summary, map_data = show_schedule()
             st.session_state['map_data'] = map_data
-            final_summary = format_schedule_summary(schedule_summary)
-            return f"알겠습니다. 최종 계획을 요약해드리겠습니다:\n\n{final_summary}", map_data
+            return f"알겠습니다. 최종 계획을 요약해드리겠습니다:\n\n{schedule_summary}", map_data
         
         # 일정 조회 
         elif intent == "show_schedule":
             schedule, map_data = show_schedule()
             st.session_state['map_data'] = map_data
-            return format_schedule_summary(schedule), pd.DataFrame()
+            return schedule, pd.DataFrame()
         
         # 기본 채팅 
         else:
@@ -132,24 +131,10 @@ def generate_paginated_response(df, page):
         response += f"{row['position']}. 이름: {row['name']}\n   주소: {row['address']}\n   별점: {row['rating']}\n\n"
 
     return response
-
-# 일정 요약 포맷팅
-def format_schedule_summary(schedule_summary):
-    formatted_schedule = "## 최종 계획\n\n"
-    formatted_schedule += "### 현재 계획된 일정입니다:\n\n"
-    
-    for entry in st.session_state['user_df']['plan']:
-        formatted_schedule += f"#### {entry['time'].capitalize()}\n"
-        formatted_schedule += f"**{entry['name']}**\n"
-        formatted_schedule += f"- 주소: {entry['address']}\n"
-        formatted_schedule += f"- 평점: {entry['rating']}\n\n"
-    
-    return formatted_schedule
-
 def preprocess_input(user_input):
     # 특정 키워드를 기반으로 사전 처리하여 의도를 명확히 파악
     search_keywords = ["추천", "찾아줘", "알려줘", "어디", "검색", "카페", "맛집", "식당", "관광"]
-    schedule_keywords = ["예약", "추가", "저장"]
+    schedule_keywords = ["일정", "예약", "계획", "추가", "저장", "할게"]
     show_schedule_keywords = ["보여줘", "확인", "조회", "리스트", "요약"]
     time_keywords = ["아침", "점심", "오후", "저녁", "밤"]
 
